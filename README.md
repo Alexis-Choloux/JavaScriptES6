@@ -45,7 +45,7 @@ Complétez le code pour reproduire le comportement de la section 1 mais cette fo
 ➡️ Exercice à réaliser dans le dossier `3-objects`
 
 ### Section 1
-Afficher les carractéristiques du véhicule sours la forme `clé : valeur` (Ex: `id: 3221`)
+Afficher les carractéristiques du véhicule sous la forme `clé : valeur` (Ex: `id: 3221`)
 
 ### Section 2
 Pour chacunes des perturbations du fichier `data.js` (variable `data`) afficher leur texte.
