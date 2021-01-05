@@ -1,6 +1,6 @@
 # Syntaxes ES6 et ES6+
 
-## Variables `let` et `const`
+## Variables `let` et `const` 
 ➡️ Exercice à réaliser dans le dossier `1-variables`
 
 ### Section 1
@@ -8,15 +8,18 @@
 2. Constatez que cela ne change rien. Désormais **on n'utilisera plus `var`** mais `let` ou `const`
 3. Remplacez toutes les occurences de `let` par `const`.
 4. Expliquez l'erreur
+On ne peut pas redéclarer une const
 5. Corrigez le code en conservant le maximum de valeurs constantes
 
 ### Section 2
 1. Remplacez toutes les occurences de `let` par `const`.
 2. Expliquez **l'absence** l'erreur
+const est un tableau. Let aurait pu fonctionner également
 
 ### Section 3
 1. Remplacez toutes les occurences de `let` par `const`.
 2. Expliquez l'erreur
+la const savedGame est redeclaree.
 3. Corrigez le code en conservant le maximum de valeurs constantes
 
 **COMMITTEZ VOS CHANGEMENTS 🚢**
@@ -28,9 +31,10 @@
 Convertissez les 3 fonctions avec la notation "Arrow function" et vérifiez que le code fonctionne comme avant la conversion
 
 ### Section 2
-1. **Avant toute modification : a ssurez-vous de comprendre le code déjà écrit ! Au besoin commentez-le.**
+1. **Avant toute modification : assurez-vous de comprendre le code déjà écrit ! Au besoin commentez-le.**
 2. Convertissez la fonction `showThis` en notation "Arrow function"
 3. Observez le résultat. Que pouvez-vous en conclure ?
+Cela ne fonctionne pas. On ne peut pas utiliser la notation Arrow Function dans un objet.
 
 ### Section 3
 Complétez le code pour reproduire le comportement de la section 1 mais cette fois-ci grâce à l'objet `odile`. Vous utiliserez dès que possible des "Arrow functions".
