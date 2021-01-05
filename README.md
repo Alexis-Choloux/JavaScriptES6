@@ -50,7 +50,7 @@ Afficher les carractéristiques du véhicule sous la forme `clé : valeur` (Ex: 
 ### Section 2
 Pour chacunes des perturbations du fichier `data.js` (variable `data`) afficher leur texte.
 
-**COMMITTEZ VOS CHANGEMENTS 🚢**
+**COMMITTEZ VOS CHANGEMENTS 🚢**  
 
 ## Destructuring
 ➡️ Exercice à réaliser dans le dossier `4-destructuring`
